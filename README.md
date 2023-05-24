@@ -1,4 +1,4 @@
 # HomeWorkRemember2
 
-![Simulator Screenshot - iPhone 14 Pro - 2023-05-24 at 08 38 34](https://github.com/Power-of-Now/HomeWorkRemember2/assets/77582341/46752bc7-b815-406f-87ee-b35a21865725)
 
+<img width="429" alt="Screenshot 2023-05-24 at 08 42 54" src="https://github.com/Power-of-Now/HomeWorkRemember2/assets/77582341/9802f76a-b063-41d6-a813-08218eec3de8">
